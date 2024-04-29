@@ -1,14 +1,16 @@
 main:
 
   - id: 1
-    title: Build what and where? The equilibrium effects of new construction
+    title: Build what and where? The distributional effects of new construction
     # authors: 
     # abstract: 
 
   - id: 2
     title: Racial disparities in home selling
-    authors: with Leonel Diego Drukker (Draft coming soon!)
-    abstract: "Using the universe of property transaction data in the US from 2010-2020, we document that black households receive 0.6-1.1% lower annualized unlevered returns to housing relative to non-black households upon selling their homes. We investigate where this gap comes from and find that neither buyer characteristics nor seller individual or house characteristics explain the gap. Additionally, the gap is consistently larger for households identified as black-only than for households identified as black which includes mixed-race households. We find that measures of appraisals do not explain the gap and neither do real estate agent and broker fixed effects. We document that black sellers list their homes at lower prices, but experience longer time-on-market. We conclude that the large selling gap is primarily due to search frictions faced by black sellers."
+    authors: with Leonel Diego Drukker.
+    draft: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4736956
+    abstract: "In this study, we investigate the financial disparities faced by black sellers in the US housing market. Using repeat-sale transactions from 2003 to 2020, we document that black sellers earn, on average, 0.36% lower annualized unlevered returns on their property sales compared to non-black sellers, when selling comparable properties at the same time in the same neighborhood. We find that the racial disparities in housing returns are not explained by seller characteristics, property renovations, the race of the buyer, seller agent fixed effects, and appraisal measures. However, controlling for listing prices and time on market reduces the racial gap to effectively zero. This suggests that black sellers face higher search frictions, which leads to worse selling outcomes."
+    # others: Presented at FDIC Consumer Research Symposium (2024), Urban Economics Association European Meeting (2024)
 
   - id: 3
     title: Corporate landlords in the single-family rental market
