@@ -5,7 +5,9 @@ layout: homepage
 ## About Me
 
 **I am a 5th-year Ph.D. student in Economics at Boston University.** 
-My research interests include real estate, industrial organization, and household finance. I study the behaviors of households, real estate developers, and investors in the housing markets using empirical and structural methods. I received a B.A. in Economics from the University of Minnesota and an M.A. from the University of Chicago.
+My research interests include real estate, industrial organization, urban economics, and household finance. I study the behaviors of households, real estate developers, and investors in the housing markets using empirical and structural methods. I received a B.A. in Economics from the University of Minnesota and an M.A. from the University of Chicago.
+
+I will be on the job market in AY 2024-2025 and available for interviews.
 
 
 <!-- 
