@@ -1,7 +1,7 @@
 main:
 
   - id: 1
-    title: Build what and where? The distributional effects of housing supply (Job market paper)
+    title: Build what and for whom? The distributional effects of housing supply (Job market paper)
     # authors: 
     # abstract: 
 
@@ -22,9 +22,12 @@ main:
     # authors: (Draft coming soon!)
     abstract: "The local residential move rate has declined by 50 percent over the past 35 years, but little is known about the underlying factors driving the long-run decline. This paper begins by examining the impact of demographic shifts on local moving trends. I find that changes in age, homeownership, race, income and marital status can explain approximately 25 percent of the overall decline. Then I explore two key mechanisms contributing to the long-term decline. Using an instrumental variable approach, I evaluate the causal impact of family life events and housing costs on local moves. The results indicate that the decrease in marriage rates accounts for at least 30 percent of the move rate decline, while rising rents have significantly lowered the mobility of renters in the last 15 years. These findings imply that the overall decline in local moves is primarily attributed to the diminishing benefits associated with relocations, but it is evident that rising housing costs are increasingly trapping renters in place."
 
-
   - id: 5
-    title: The impact of parenthood on the financial wellbeing of families
+    title: "Housing inequality in the United States"
+    authors: with Gerard Domènech Arumí and Giovanni Paolo Mariani
+
+  - id: 6
+    title: The impact of parenthood on the financial well-being of families
     authors: with Vickie Wang and Letian Yin
 
 
