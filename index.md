@@ -9,17 +9,23 @@ layout: homepage
 I work on questions in housing and urban economics using tools from empirical industrial organization and applied micro. I received a B.A. in Economics from the University of Minnesota and an M.A. from the University of Chicago.
 <!-- I study the behaviors of households, real estate developers, and investors in the housing markets using empirical and structural methods. -->
 
-You can view my CV [here](assets/files/curriculum_vitae.pdf). 
-
 **I will be on the job market in AY 2024-2025 and available for interviews.**
+
+You can view my CV [here](assets/files/curriculum_vitae.pdf). 
 
 <!-- 
 -->
 
-
 ## Research 
 
+### Working Papers 
+
 {% include_relative _includes/publications.md %}
+
+### Work in Progress
+
+{% include_relative _includes/wip.md %}
+
 
 ## Teaching
 

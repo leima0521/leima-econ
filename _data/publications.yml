@@ -2,7 +2,7 @@ main:
 
   - id: 1
     title: Build what and for whom? The distributional effects of housing supply (Job market paper)
-    # authors: 
+    authors: (Draft coming soon!)
     # abstract: 
 
   - id: 2
@@ -14,21 +14,24 @@ main:
 
   - id: 3
     title: "When Institutional Investors Come To Town: The Local Effects of Buy-to-Rent Properties"
-    authors: (Draft coming soon!)
+    # authors: (Draft coming soon!)
+    draft: ./assets/files/b2r_draft.pdf
     abstract: "Since 2012, institutional buy-to-rent (B2R) investors have entered the single-family rental market, converting a substantial number of homes into rental properties. This study examines the impact of B2R investors on local housing markets, providing reduced-form evidence on the size and origin of spillover effects resulting from their presence. An additional property by B2R investors within 150 meters increases housing price growth by 2-3%. The impact is stronger in neighborhoods with a black majority and lower property values. The local spillover effects are mostly driven by positive amenity and diminishing supply channels."
 
   - id: 4
     title: Happy at home or stuck in place? The determinants of declining local residential mobility
     # authors: (Draft coming soon!)
+    draft: ./assets/files/local_move_decline.pdf
     abstract: "The local residential move rate has declined by 50 percent over the past 35 years, but little is known about the underlying factors driving the long-run decline. This paper begins by examining the impact of demographic shifts on local moving trends. I find that changes in age, homeownership, race, income and marital status can explain approximately 25 percent of the overall decline. Then I explore two key mechanisms contributing to the long-term decline. Using an instrumental variable approach, I evaluate the causal impact of family life events and housing costs on local moves. The results indicate that the decrease in marriage rates accounts for at least 30 percent of the move rate decline, while rising rents have significantly lowered the mobility of renters in the last 15 years. These findings imply that the overall decline in local moves is primarily attributed to the diminishing benefits associated with relocations, but it is evident that rising housing costs are increasingly trapping renters in place."
 
-  - id: 5
-    title: "Housing inequality in the United States"
-    authors: with Gerard Domènech Arumí and Giovanni Paolo Mariani
+  # - id: 5
+  #   title: The impact of parenthood on the financial well-being of families
+  #   authors: with Vickie Wang and Letian Yin
+  #   abstract: 
 
-  - id: 6
-    title: The impact of parenthood on the financial well-being of families
-    authors: with Vickie Wang and Letian Yin
+  # - id: 6
+  #   title: "Housing inequality in the United States"
+  #   authors: with Gerard Domènech Arumí and Giovanni Paolo Mariani
 
 
 
