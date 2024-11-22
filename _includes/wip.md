@@ -17,10 +17,10 @@
     <div class="links">
       {% if link.authors or link.abstract %}
         <div class="author">
-        {% if link.authors %} 
+        {% if link.authors %}
           {{ link.authors }}
         {% endif %}
-              {% if link.draft %} 
+      {% if link.draft %} 
            <a href="{{ link.draft }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Draft</a>
       {% endif %}
         {% if link.abstract %} 
