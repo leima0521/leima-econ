@@ -53,7 +53,7 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 .image.avatar:before { display: none; }
 
-.image.avatar img { box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3); }
+.image.avatar img { border-radius: 100%; width: 65%; padding: 20px; }
 
 #header .image.avatar { margin: 0 0 1em 0; width: .00em; }
 
