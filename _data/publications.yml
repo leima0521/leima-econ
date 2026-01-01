@@ -13,6 +13,12 @@ main:
     abstract: "This study investigates the financial disparities Black sellers face in the US housing market. Using repeat-sale transactions from 2003 to 2020, we document that Black sellers earn, on average, 0.36% lower annualized unlevered returns on their property sales compared to non-Black sellers. These racial disparities in housing returns cannot be explained by seller characteristics, property renovations, the buyer's race, seller agent fixed effects, and appraisal measures. However, we find significant racial gaps in listing prices and time on market, which we attribute to intermediaries involved in housing transactions. Controlling for these factors reduces the racial gap in returns to effectively zero. Additionally, we find that when homes are sold to iBuyers, where human intermediary bias is removed, the racial gap in housing returns disappears. Our findings suggest that Black sellers experience higher search frictions, leading to worse selling outcomes."
     # others: Presented at FDIC Consumer Research Symposium (2024), Urban Economics Association European Meeting (2024)
 
+  - id: 3
+    title: Housing Inequality in the United States
+    authors: with Gerard Domènech Arumí and Giovanni Paolo Mariani
+    draft: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5928399
+    abstract: "We use county assessor and property deed records to construct, analyze, and disseminate contemporaneous and long-run estimates of housing inequality for the United States and its subnational levels. A dwelling in the top decile is eight times as valuable and four times as large as a dwelling in the bottom decile, and 12% of all housing assets are held by 1% of households. Housing value inequality has increased since the 1980s, while housing space inequality has remained relatively stable. Heterogeneity is substantial, with considerable variation between and within states, commuting zones, and census tracts. Income, land-use regulations, and housing supply and demand are associated with current and changing levels of housing inequality. This research highlights the importance of granularity when studying inequality and evaluating policies. We make all estimates publicly available to facilitate such work."
+
   # - id: 3
   #   title: "When Institutional Investors Come to Town: The Local Effects of Buy-to-Rent Properties"
   #   # authors: (Draft coming soon!)
