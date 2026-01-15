@@ -1,8 +1,8 @@
 main:
 
   - id: 1
-    title: Build What and for Whom? The Distributional Effects of Housing Supply (Job market paper)
-    # authors: 
+    title: Build What and for Whom? The Distributional Effects of Housing Supply 
+    authors: <b>(Revise and Resubmit, American Economic Review)</b>
     draft: https://www.dropbox.com/scl/fi/2psxx9fksb4r6gz4xl5ph/JMP_housing_supply_Lei_Ma.pdf?rlkey=ussnk5si1wifc1hkaf85v7b3o&dl=0
     abstract: "New construction has favored bigger, more expensive houses. This paper studies the causes of this pattern and evaluates the equilibrium impacts of proposed housing policies aimed at improving affordability at the lower end of the market. I develop an equilibrium model of segmented housing markets with two key features: (1) heterogeneous household preferences for housing quality by demographics, and (2) endogenous housing supply with heterogeneous development costs by housing quality. Using microdata on household housing choices and parcel-specific development costs for single-family homes in the Atlanta MSA, I find that the shift toward large home construction is partly driven by demand from high-income households, who are less price-sensitive and prefer larger homes, but zoning density restrictions play a more significant role in limiting the construction of smaller homes. Relaxing these restrictions could expand the supply of small homes and benefit low-income households, but such zoning reforms are often politically challenging. As an alternative, I evaluate the impact of recently proposed housing subsidies targeting first-time homebuyers and starter homes. The model predicts that subsidizing young, low-income households provides substantial targeted welfare gains to recipients but hurts others due to rising prices. By contrast, subsidies to small home construction increase the supply of small homes but crowd out the construction of larger homes, resulting in modest welfare gains without effectively targeting those most in need."
 
